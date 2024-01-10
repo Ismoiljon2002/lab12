@@ -1,10 +1,19 @@
 # lab12
 
-A new Flutter project.
+## Ismoiljon Mirabdullayev
+
+## Id: 2110176
+
+## GRoup: JSE2
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### This project has 2 parts:
+  1. main branch (Purpose of this project is to store a new data to FireStore)
+  2. part2 branch (Purpose of this project is to display the users' names in real-time)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
